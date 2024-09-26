@@ -3,9 +3,17 @@
 </div>
 
 <div aligh="center">
-  <h2>Mateus Lima - 18 anos</h2>
-  <h2>Estudante de Análise e Desenvolvimento de Sistemas - FIAP</h2>
+  <h2>Mateus Lima</h2>
+  <ul>
+    <li> 🥳 18 Anos</li>
+    <li> 📚 Cursando ADS - FIAP</li>
+  </ul>
+
+  <p>📫 Contato: mtslma.dev@gmail.com</p>
 </div>
+
+
+
 
 
 
