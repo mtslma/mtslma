@@ -1,5 +1,5 @@
 # 🚀 We could build a spaceship!
-![Imgur](src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40")
+![Img](https://tenor.com/view/pookie-gif-8646909744010298802)
 
 
 <!--
