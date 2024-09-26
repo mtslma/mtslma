@@ -1,5 +1,5 @@
 # 🚀 We could build a spaceship!
-[Imgur](src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40")
+![Imgur](src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40")
 
 
 <!--
