@@ -1,5 +1,5 @@
 # 🚀 We could build a spaceship!
-![benny-spaceship](https://imgur.com/0ukUSzp)
+![benny-spaceship](https://imgur.com/0ukUSzp.gif)
 
 
 <!--
