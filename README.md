@@ -2,8 +2,9 @@
   <h1>🚀 WE COULD BUILD A SPACESHIP 🚀 </h1>
 </div>
 
-<div aligh="center">
+<div align="center">
   <h2>Mateus Lima</h2>
+</div>
   <ul>
     <li> 🥳 18 Anos</li>
     <li> 📚 Cursando ADS - FIAP</li>
