@@ -1,13 +1,8 @@
-<div align="center">
-  <h1>🚀 WE COULD BUILD A SPACESHIP 🚀 </h1>
-</div>
-
 <div align="left">
   <h2>Mateus Lima</h2>
 </div>
   <ul>
-    <li> 🥳 18 Anos</li>
-    <li> 📚 Cursando ADS - FIAP</li>
+    <li> Estudante de ADS - FIAP</li>
   </ul>
 
   <p>📫 Contato: mtslma.dev@gmail.com</p>
