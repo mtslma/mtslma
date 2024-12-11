@@ -5,7 +5,7 @@
     <li> Estudante de ADS - FIAP</li>
   </ul>
 
-  <p>📫 Contato: mtslma.dev@gmail.com</p>
+  <p>📫 Contato: mateusdasilveiralima@gmail.com</p>
 </div>
 
 
