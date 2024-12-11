@@ -1,44 +1,16 @@
-<div align="left">
-  <h2>Mateus Lima</h2>
-</div>
-  <ul>
-    <li> Estudante de ADS - FIAP</li>
-  </ul>
+👋 Olá! Me chamo Mateus, sou um estudante de Análise e Desenvolvimento de Sistemas na FIAP 🎓 e professor de inglês 📚.
 
-  <p>📫 Contato: mateusdasilveiralima@gmail.com</p>
-</div>
+💻 Apaixonado por desenvolvimento de software, atualmente focado em Java.
 
+📖 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades, principalmente em:
+  - Desenvolvimento web (HTML, CSS, JavaScript)
+  - Backend com Java e Python
+  - Bancos de dados relacionais
 
+🎯 Buscando oportunidades para atuar na área de desenvolvimento de software e contribuir para projetos inovadores.
 
+🌟 Entre em contato comigo:
+- LinkedIn: [linkedin.com/in/mtslma](https://linkedin.com/in/mtslma)
+- Email: [devmtslma@gmail.com](https://devmtslma@gmail.com)
 
-
-
-
-<!--
-<div>
-  <h2>
-    Mateus Lima
-  </h2>
-  <h3>
-    <ul>
-      <li>🎉18 anos</li>
-      <li>📚 ADS - FIAP (cursando)</li>
-    <ul>
-  </h3>
-
-</div>
-
-
-**mtslma/mtslma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 "We could build a spaceship!"
