@@ -6,32 +6,30 @@
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+## ⚙️ Tecnologias & Ferramentas
 
-<p align="left">
+<p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="46" height="46"/>
   
   <!-- Bancos de Dados -->
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="48" height="48"/>
-
-  </br>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="46" height="46"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="46" height="46"/>
   
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=next" title="Next.js" alt="Next.js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=next" title="Next.js" alt="Next.js" width="46" height="46"/>
   
   <!-- Ferramentas Gerais -->
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="46" height="46"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" width="46" height="46"/>
 </p>
 
 ---
