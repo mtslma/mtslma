@@ -8,7 +8,7 @@
 
 ## ⚙️ Tecnologias & Ferramentas
 
-<p align="center">
+<p align="left">
   <!-- Linguagens -->
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="46" height="46"/>
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" width="46" height="46"/>
