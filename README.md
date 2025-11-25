@@ -1,8 +1,6 @@
 ## Olá! Me chamo Mateus Lima :)
 
----
-
-## Contatos
+### Contatos
 
 <p align="left">
   <a href="https://linkedin.com/in/mtslma" target="_blank">
